@@ -1,0 +1,13 @@
+body {
+  background-image: url('https://www.advisorhub.com/wp-content/uploads/2020/10/Why-Is-The-Stock-Market-Up_-600x428-1.jpg');
+  background-size: cover;       /* Makes it fill the screen */
+  background-repeat: no-repeat; /* Prevents tiling */
+  background-position: center;  /* Centers the image */
+  background-attachment: fixed; /* Keeps it still while scrolling */
+}
+.register-heading {
+  color: #00D9FF;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}

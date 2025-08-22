@@ -1,0 +1,19 @@
+.trade-form {
+  border-radius: 12px;
+  background-color: #fefefe;
+  transition: box-shadow 0.3s ease;
+}
+
+.trade-form:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-weight: 600;
+  color: #333;
+}
+
+.btn-warning {
+  font-weight: 500;
+  font-size: 1rem;
+}

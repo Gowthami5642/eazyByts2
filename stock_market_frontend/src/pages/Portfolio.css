@@ -1,0 +1,40 @@
+.card-title {
+  font-size: 1.3rem;
+  color: #343a40;
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+}
+
+.btn {
+  font-weight: 500;
+  padding: 6px 12px;
+}
+.card-title {
+  font-size: 1.3rem;
+  color: #343a40;
+}
+
+.stock-card {
+  transition: transform 0.3s ease;
+}
+
+.stock-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+}
+
+.summary-card {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+}
+
+footer {
+  font-size: 0.9rem;
+}
